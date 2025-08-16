@@ -1,4 +1,4 @@
-# Singapore Government Expenditure Animated Sankey Visualization
+# Singapore Government Expenditure
 
 An interactive, animated Sankey diagram showing Singapore's government operating expenditure flows across sectors and years from 1997 to 2025.
 
