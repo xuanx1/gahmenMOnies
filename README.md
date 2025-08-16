@@ -2,7 +2,8 @@
 
 An interactive, animated Sankey diagram showing Singapore's government operating expenditure flows across sectors and years from 1997 to 2025.
 
-[Uploading screencapture-127-0-0-1-5500-2025-08-16-16_46_08.png…]()
+<img width="1211" height="2972" alt="screencapture-127-0-0-1-5500-2025-08-16-16_46_08" src="https://github.com/user-attachments/assets/12d9777f-00bc-4f28-b114-4596c334f5ad" />
+
 
 ## Features
 
