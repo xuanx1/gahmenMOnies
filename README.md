@@ -6,8 +6,6 @@
 
 An interactive, animated Sankey diagram visualizing Singapore's government operating expenditure flows across sectors and departments from 1997 to 2025. This project provides insights into how government spending has evolved over nearly three decades, with a focus on major policy shifts and emerging priorities.
 
-## 🔗 [**Live Demo**](https://xuanx1.github.io/gahmenMOnies/)
-
 <div align="center">
   <img width="1211" alt="Singapore Government Expenditure Sankey Diagram" src="https://github.com/user-attachments/assets/12d9777f-00bc-4f28-b114-4596c334f5ad" />
 </div>
