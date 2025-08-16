@@ -1,0 +1,123 @@
+year,sector,amount,parent_sector
+1997,Education,3347.8,Social Development
+1997,Health,896,Social Development
+1997,National Development,441.1,Social Development
+1997,Sustainability And The Environment,318.4,Social Development
+1997,Social And Family Development,290,Social Development
+1997,Digital Development And Information,186.3,Social Development
+1997,Defence,6097.5,Security And External Relations
+1997,Home Affairs,994.1,Security And External Relations
+1997,Foreign Affairs,143.3,Security And External Relations
+1997,Transport,314.4,Economic Development
+1997,Trade And Industry,340.6,Economic Development
+1997,Manpower (Excluding Financial Security),52.6,Economic Development
+1997,Finance,297.7,Government Administration
+1997,Law,88.6,Government Administration
+1997,Organs Of State,150.1,Government Administration
+1997,Prime Minister's Office,121.2,Government Administration
+2000,Education,4276.9,Social Development
+2000,Health,1071.5,Social Development
+2000,National Development,324.5,Social Development
+2000,Sustainability And The Environment,390.3,Social Development
+2000,Social And Family Development,377.1,Social Development
+2000,Digital Development And Information,213.4,Social Development
+2000,Defence,6561,Security And External Relations
+2000,Home Affairs,1299.9,Security And External Relations
+2000,Foreign Affairs,180.3,Security And External Relations
+2000,Transport,2390.1,Economic Development
+2000,Trade And Industry,411.6,Economic Development
+2000,Manpower (Excluding Financial Security),106.8,Economic Development
+2000,Finance,388.1,Government Administration
+2000,Law,119.5,Government Administration
+2000,Organs Of State,169.7,Government Administration
+2000,Prime Minister's Office,134.1,Government Administration
+2005,Education,5215.3,Social Development
+2005,Health,1680.4,Social Development
+2005,National Development,335.6,Social Development
+2005,Sustainability And The Environment,408.2,Social Development
+2005,Social And Family Development,844.2,Social Development
+2005,Digital Development And Information,293.9,Social Development
+2005,Defence,8888.7,Security And External Relations
+2005,Home Affairs,1825.2,Security And External Relations
+2005,Foreign Affairs,266.8,Security And External Relations
+2005,Transport,277,Economic Development
+2005,Trade And Industry,436.4,Economic Development
+2005,Manpower (Excluding Financial Security),166.4,Economic Development
+2005,Digital Development And Information,39.1,Economic Development
+2005,Finance,345.5,Government Administration
+2005,Law,100,Government Administration
+2005,Organs Of State,186.3,Government Administration
+2005,Prime Minister's Office,135.8,Government Administration
+2010,Education,8998.7,Social Development
+2010,Health,3258,Social Development
+2010,National Development,789.5,Social Development
+2010,Sustainability And The Environment,720,Social Development
+2010,Social And Family Development,1828.7,Social Development
+2010,Digital Development And Information,500,Social Development
+2010,Defence,10623.4,Security And External Relations
+2010,Home Affairs,2936.8,Security And External Relations
+2010,Foreign Affairs,359.6,Security And External Relations
+2010,Transport,455.8,Economic Development
+2010,Trade And Industry,683.6,Economic Development
+2010,Manpower (Excluding Financial Security),439.1,Economic Development
+2010,Digital Development And Information,87.7,Economic Development
+2010,Finance,552.4,Government Administration
+2010,Law,119.2,Government Administration
+2010,Organs Of State,313.2,Government Administration
+2010,Prime Minister's Office,240.3,Government Administration
+2015,Education,11235.7,Social Development
+2015,Health,7519.8,Social Development
+2015,National Development,1331.6,Social Development
+2015,Sustainability And The Environment,1125.1,Social Development
+2015,Culture Community And Youth,1794.6,Social Development
+2015,Social And Family Development,2121,Social Development
+2015,Digital Development And Information,424.4,Social Development
+2015,Defence,12671.6,Security And External Relations
+2015,Home Affairs,4377.1,Security And External Relations
+2015,Foreign Affairs,446.7,Security And External Relations
+2015,Transport,782.9,Economic Development
+2015,Trade And Industry,783.4,Economic Development
+2015,Manpower (Excluding Financial Security),611.1,Economic Development
+2015,Digital Development And Information,454.4,Economic Development
+2015,Finance,739.6,Government Administration
+2015,Law,173.9,Government Administration
+2015,Organs Of State,410.2,Government Administration
+2015,Prime Minister's Office,380.9,Government Administration
+2020,Education,11766.9,Social Development
+2020,Health,14310.6,Social Development
+2020,National Development,4626.5,Social Development
+2020,Sustainability And The Environment,1646.1,Social Development
+2020,Culture Community And Youth,1927.4,Social Development
+2020,Social And Family Development,3673,Social Development
+2020,Digital Development And Information,610.9,Social Development
+2020,Manpower (Financial Security),2291.1,Social Development
+2020,Defence,13027.1,Security And External Relations
+2020,Home Affairs,6012.6,Security And External Relations
+2020,Foreign Affairs,397.6,Security And External Relations
+2020,Transport,2944.8,Economic Development
+2020,Trade And Industry,2509.4,Economic Development
+2020,Manpower (Excluding Financial Security),4166.3,Economic Development
+2020,Digital Development And Information,731,Economic Development
+2020,Finance,904.5,Government Administration
+2020,Law,196.2,Government Administration
+2020,Organs Of State,502.3,Government Administration
+2020,Prime Minister's Office,692,Government Administration
+2025,Education,14448,Social Development
+2025,Health,18795.3,Social Development
+2025,National Development,8345,Social Development
+2025,Sustainability And The Environment,2656.1,Social Development
+2025,Culture Community And Youth,2270.8,Social Development
+2025,Social And Family Development,5259.1,Social Development
+2025,Digital Development And Information,1063.3,Social Development
+2025,Manpower (Financial Security),2371.1,Social Development
+2025,Defence,22076.8,Security And External Relations
+2025,Home Affairs,8017.4,Security And External Relations
+2025,Foreign Affairs,561.2,Security And External Relations
+2025,Transport,2798,Economic Development
+2025,Trade And Industry,1638.2,Economic Development
+2025,Manpower (Excluding Financial Security),1213.7,Economic Development
+2025,Digital Development And Information,1211.5,Economic Development
+2025,Finance,1421.6,Government Administration
+2025,Law,315.4,Government Administration
+2025,Organs Of State,1108.6,Government Administration
+2025,Prime Minister's Office,779.1,Government Administration

@@ -1,0 +1,2868 @@
+[
+  {
+    "year": 1997,
+    "total_expenditure": 19083,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 10482.9,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 3347.8
+          },
+          {
+            "name": "Health",
+            "amount": 896
+          },
+          {
+            "name": "National Development",
+            "amount": 441.1
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 318.4
+          },
+          {
+            "name": "Social Development",
+            "amount": 5479.6
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 7234.9,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 6097.5
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 994.1
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 143.3
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 707.6,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 314.4
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 340.6
+          },
+          {
+            "name": "Manpower (Excluding Financial Security)",
+            "amount": 52.6
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 657.6,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 297.7
+          },
+          {
+            "name": "Law",
+            "amount": 88.6
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 150.1
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 121.2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "total_expenditure": 19527.5,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 10309.3,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 3167.4
+          },
+          {
+            "name": "Health",
+            "amount": 992.4
+          },
+          {
+            "name": "National Development",
+            "amount": 402
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 314.2
+          },
+          {
+            "name": "Social Development",
+            "amount": 5433.3
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 7661,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 6480.9
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 1032.4
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 147.7
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 893.2,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 442.3
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 314.5
+          },
+          {
+            "name": "Manpower (Excluding Financial Security)",
+            "amount": 136.4
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 664,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 309.8
+          },
+          {
+            "name": "Law",
+            "amount": 96.6
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 134.9
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 122.7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "total_expenditure": 19747.3,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 10289.2,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 3256.9
+          },
+          {
+            "name": "Health",
+            "amount": 935.8
+          },
+          {
+            "name": "National Development",
+            "amount": 357.6
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 329.4
+          },
+          {
+            "name": "Social Development",
+            "amount": 5409.5
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 7900.6,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 6646.6
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 1100.8
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 153.2
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 865.3,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 408.9
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 365.7
+          },
+          {
+            "name": "Manpower (Excluding Financial Security)",
+            "amount": 90.7
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 692.2,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 338.6
+          },
+          {
+            "name": "Law",
+            "amount": 109
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 136.1
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 108.5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2000,
+    "total_expenditure": 24478.1,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 12717,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 4276.9
+          },
+          {
+            "name": "Health",
+            "amount": 1071.5
+          },
+          {
+            "name": "National Development",
+            "amount": 324.5
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 390.3
+          },
+          {
+            "name": "Social Development",
+            "amount": 6653.8
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 8041.2,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 6561
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 1299.9
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 180.3
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 2908.5,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 2390.1
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 411.6
+          },
+          {
+            "name": "Manpower (Excluding Financial Security)",
+            "amount": 106.8
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 811.4,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 388.1
+          },
+          {
+            "name": "Law",
+            "amount": 119.5
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 169.7
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 134.1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2001,
+    "total_expenditure": 25583.7,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 14817.5,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 4766.6
+          },
+          {
+            "name": "Health",
+            "amount": 1445.5
+          },
+          {
+            "name": "National Development",
+            "amount": 397.5
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 413.7
+          },
+          {
+            "name": "Social Development",
+            "amount": 7769.9
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 24.3
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 8865.4,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 7089.4
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 1580
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 196
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 1113.3,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 406.2
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 553
+          },
+          {
+            "name": "Manpower (Excluding Financial Security)",
+            "amount": 129.8
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 24.3
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 787.5,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 352
+          },
+          {
+            "name": "Law",
+            "amount": 111.6
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 172.6
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 151.3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2002,
+    "total_expenditure": 26519.9,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 15106.6,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 4824.4
+          },
+          {
+            "name": "Health",
+            "amount": 1450.9
+          },
+          {
+            "name": "National Development",
+            "amount": 409.5
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 447.7
+          },
+          {
+            "name": "Social Development",
+            "amount": 7945.6
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 28.5
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 9468.4,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 7694.5
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 1562.6
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 211.3
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 1133.3,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 385.3
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 563.6
+          },
+          {
+            "name": "Manpower (Excluding Financial Security)",
+            "amount": 155.9
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 28.5
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 811.6,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 379.4
+          },
+          {
+            "name": "Law",
+            "amount": 102.6
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 186.3
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 143.3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2003,
+    "total_expenditure": 27806.3,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 16430.3,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 4996.8
+          },
+          {
+            "name": "Health",
+            "amount": 1904.2
+          },
+          {
+            "name": "National Development",
+            "amount": 413.8
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 453.2
+          },
+          {
+            "name": "Social Development",
+            "amount": 8614.8
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 47.5
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 9634,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 7713.6
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 1707.9
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 212.5
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 995.2,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 292.4
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 496.8
+          },
+          {
+            "name": "Manpower (Excluding Financial Security)",
+            "amount": 158.5
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 47.5
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 746.8,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 333.4
+          },
+          {
+            "name": "Law",
+            "amount": 95.6
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 182.4
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 135.4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2004,
+    "total_expenditure": 27831,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 15975.7,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 4974.7
+          },
+          {
+            "name": "Health",
+            "amount": 1604
+          },
+          {
+            "name": "National Development",
+            "amount": 376.5
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 478.8
+          },
+          {
+            "name": "Social Development",
+            "amount": 8499.6
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 42.1
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 10228.1,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 8243.3
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 1751.9
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 232.9
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 884.3,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 289.4
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 391.7
+          },
+          {
+            "name": "Manpower (Excluding Financial Security)",
+            "amount": 161.1
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 42.1
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 742.9,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 317.8
+          },
+          {
+            "name": "Law",
+            "amount": 97.1
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 186.6
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 141.4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2005,
+    "total_expenditure": 29123.4,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 16456.2,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 5215.3
+          },
+          {
+            "name": "Health",
+            "amount": 1680.4
+          },
+          {
+            "name": "National Development",
+            "amount": 335.6
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 408.2
+          },
+          {
+            "name": "Social Development",
+            "amount": 8777.6
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 39.1
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 10980.7,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 8888.7
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 1825.2
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 266.8
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 918.9,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 277
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 436.4
+          },
+          {
+            "name": "Manpower (Excluding Financial Security)",
+            "amount": 166.4
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 39.1
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 767.6,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 345.5
+          },
+          {
+            "name": "Law",
+            "amount": 100
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 186.3
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 135.8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2006,
+    "total_expenditure": 33238.1,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 19833.5,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 6351.7
+          },
+          {
+            "name": "Health",
+            "amount": 1839.5
+          },
+          {
+            "name": "National Development",
+            "amount": 671.4
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 413.5
+          },
+          {
+            "name": "Social Development",
+            "amount": 10519.9
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 37.5
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 11540.2,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 9273.3
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 2009.8
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 257.1
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 984,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 284.9
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 473.2
+          },
+          {
+            "name": "Manpower (Excluding Financial Security)",
+            "amount": 188.4
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 37.5
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 880.4,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 427.9
+          },
+          {
+            "name": "Law",
+            "amount": 105.9
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 195.2
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 151.4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "total_expenditure": 35923.6,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 21669.5,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 6785.6
+          },
+          {
+            "name": "Health",
+            "amount": 2019.5
+          },
+          {
+            "name": "National Development",
+            "amount": 899.9
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 453.2
+          },
+          {
+            "name": "Social Development",
+            "amount": 11474.6
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 36.7
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 12399.5,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 9659.9
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 2428.3
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 311.3
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 887.2,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 320.9
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 528
+          },
+          {
+            "name": "Manpower (Financial Security)",
+            "amount": 1.6
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 36.7
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 967.4,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 438.1
+          },
+          {
+            "name": "Law",
+            "amount": 106.6
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 246.6
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 176.1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "total_expenditure": 40149.5,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 24499.6,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 7476.5
+          },
+          {
+            "name": "Health",
+            "amount": 2378.5
+          },
+          {
+            "name": "National Development",
+            "amount": 805.1
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 605.8
+          },
+          {
+            "name": "Social Development",
+            "amount": 13200.2
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 33.5
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 13219.3,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 10397.4
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 2477.7
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 344.2
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 1400.1,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 366.9
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 659.5
+          },
+          {
+            "name": "Manpower (Financial Security)",
+            "amount": 340.2
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 33.5
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 1030.5,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 484.1
+          },
+          {
+            "name": "Law",
+            "amount": 118
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 234.8
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 193.6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "total_expenditure": 43299.1,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 27164,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 7837.9
+          },
+          {
+            "name": "Health",
+            "amount": 2920.2
+          },
+          {
+            "name": "National Development",
+            "amount": 959.3
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 656.2
+          },
+          {
+            "name": "Social Development",
+            "amount": 14714.2
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 76.2
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 13522.6,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 10603.3
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 2576.7
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 342.6
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 1505.1,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 370.6
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 704.2
+          },
+          {
+            "name": "Manpower (Financial Security)",
+            "amount": 354.1
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 76.2
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 1107.4,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 528
+          },
+          {
+            "name": "Law",
+            "amount": 126.8
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 249.3
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 203.3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "total_expenditure": 47048.8,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 30312.8,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 8998.7
+          },
+          {
+            "name": "Health",
+            "amount": 3258
+          },
+          {
+            "name": "National Development",
+            "amount": 789.5
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 720
+          },
+          {
+            "name": "Social Development",
+            "amount": 16458.9
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 87.7
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 13919.8,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 10623.4
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 2936.8
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 359.6
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 1591.1,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 455.8
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 683.6
+          },
+          {
+            "name": "Manpower (Financial Security)",
+            "amount": 364
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 87.7
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 1225.1,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 552.4
+          },
+          {
+            "name": "Law",
+            "amount": 119.2
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 313.2
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 240.3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "total_expenditure": 51105.2,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 33921.9,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 9697.8
+          },
+          {
+            "name": "Health",
+            "amount": 3488.8
+          },
+          {
+            "name": "National Development",
+            "amount": 1428
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 726.4
+          },
+          {
+            "name": "    Culture",
+            "amount": 364.5
+          },
+          {
+            "name": "Social Development",
+            "amount": 18056.3
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 160.1
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 14088,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 10796.8
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 2947.4
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 343.8
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 1764.1,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 463.8
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 670.8
+          },
+          {
+            "name": "Manpower (Financial Security)",
+            "amount": 469.4
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 160.1
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 1331.2,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 616.9
+          },
+          {
+            "name": "Law",
+            "amount": 122.9
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 318.1
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 273.3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "total_expenditure": 53156.8,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 35190.1,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 9637.3
+          },
+          {
+            "name": "Health",
+            "amount": 4066.1
+          },
+          {
+            "name": "National Development",
+            "amount": 948.8
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 812.7
+          },
+          {
+            "name": "    Culture",
+            "amount": 1003
+          },
+          {
+            "name": "Social Development",
+            "amount": 18495.6
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 226.6
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 14677.7,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 11056
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 3266.3
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 355.4
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 1911.2,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 501.9
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 685.4
+          },
+          {
+            "name": "Manpower (Financial Security)",
+            "amount": 497.3
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 226.6
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 1377.8,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 630.8
+          },
+          {
+            "name": "Law",
+            "amount": 162.7
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 325.5
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 258.8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "total_expenditure": 58837.2,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 39884.8,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 10664.9
+          },
+          {
+            "name": "Health",
+            "amount": 5043.9
+          },
+          {
+            "name": "National Development",
+            "amount": 673.3
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 957.5
+          },
+          {
+            "name": "    Culture",
+            "amount": 1335
+          },
+          {
+            "name": "Social Development",
+            "amount": 20943.2
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 267
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 15233.3,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 11329.1
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 3521.9
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 382.3
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 2197.9,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 554.9
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 709.6
+          },
+          {
+            "name": "Manpower (Financial Security)",
+            "amount": 666.4
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 267
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 1521.2,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 711.4
+          },
+          {
+            "name": "Law",
+            "amount": 167.3
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 352.3
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 290.2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "total_expenditure": 63537.6,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 43275.3,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 10712.4
+          },
+          {
+            "name": "Health",
+            "amount": 5872.4
+          },
+          {
+            "name": "National Development",
+            "amount": 857.9
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 1048.5
+          },
+          {
+            "name": "    Culture",
+            "amount": 1794.6
+          },
+          {
+            "name": "Social Development",
+            "amount": 22611.8
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 377.7
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 16289.7,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 11866.9
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 4029.1
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 393.7
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 2412.6,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 597.7
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 728.5
+          },
+          {
+            "name": "Manpower (Financial Security)",
+            "amount": 708.7
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 377.7
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 1560,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 681.8
+          },
+          {
+            "name": "Law",
+            "amount": 176.8
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 383.6
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 317.8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "total_expenditure": 71295.5,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 49368.8,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 11235.7
+          },
+          {
+            "name": "Health",
+            "amount": 7519.8
+          },
+          {
+            "name": "National Development",
+            "amount": 1331.6
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 1125.1
+          },
+          {
+            "name": "    Culture",
+            "amount": 1444
+          },
+          {
+            "name": "Social Development",
+            "amount": 26258.2
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 454.4
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 17495.4,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 12671.6
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 4377.1
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 446.7
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 2726.7,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 782.9
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 783.4
+          },
+          {
+            "name": "Manpower (Financial Security)",
+            "amount": 706
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 454.4
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 1704.6,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 739.6
+          },
+          {
+            "name": "Law",
+            "amount": 173.9
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 410.2
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 380.9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "total_expenditure": 78220.7,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 54511.7,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 11812.2
+          },
+          {
+            "name": "Health",
+            "amount": 8199.4
+          },
+          {
+            "name": "National Development",
+            "amount": 2284.1
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 1200.7
+          },
+          {
+            "name": "    Culture",
+            "amount": 1586.2
+          },
+          {
+            "name": "Social Development",
+            "amount": 28939.5
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 489.6
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 18372.1,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 13281.2
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 4652
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 438.9
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 3517.6,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 953.1
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 920.8
+          },
+          {
+            "name": "Manpower (Financial Security)",
+            "amount": 1154.1
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 489.6
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 1819.3,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 824.5
+          },
+          {
+            "name": "Law",
+            "amount": 180.5
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 440.1
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 374.2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "total_expenditure": 83290.8,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 58176,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 12079.5
+          },
+          {
+            "name": "Health",
+            "amount": 8734.4
+          },
+          {
+            "name": "National Development",
+            "amount": 3218.2
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 1248.2
+          },
+          {
+            "name": "    Culture",
+            "amount": 1668.1
+          },
+          {
+            "name": "Social Development",
+            "amount": 30849.3
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 378.3
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 19013.5,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 13582
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 4996.3
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 435.2
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 3957.3,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 1607.3
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 943.5
+          },
+          {
+            "name": "Manpower (Financial Security)",
+            "amount": 1028.2
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 378.3
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 2144,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 833.4
+          },
+          {
+            "name": "Law",
+            "amount": 184.6
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 473
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 653
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "total_expenditure": 85784.6,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 59294.3,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 12429
+          },
+          {
+            "name": "Health",
+            "amount": 8937.4
+          },
+          {
+            "name": "National Development",
+            "amount": 2941.4
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 1295.1
+          },
+          {
+            "name": "    Culture",
+            "amount": 1673.8
+          },
+          {
+            "name": "Social Development",
+            "amount": 31400.3
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 617.3
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 19774,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 13824.9
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 5504.9
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 444.2
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 4537.4,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 1899.6
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 993.1
+          },
+          {
+            "name": "Manpower (Financial Security)",
+            "amount": 1027.4
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 617.3
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 2178.9,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 828
+          },
+          {
+            "name": "Law",
+            "amount": 184.6
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 496.3
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 670
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "total_expenditure": 87257.8,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 60502.3,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 11932.1
+          },
+          {
+            "name": "Health",
+            "amount": 9914.8
+          },
+          {
+            "name": "National Development",
+            "amount": 2605.8
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 1539.6
+          },
+          {
+            "name": "    Culture",
+            "amount": 1927.4
+          },
+          {
+            "name": "Social Development",
+            "amount": 32047.5
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 535.1
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 19807.4,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 13668.8
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 5703
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 435.6
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 4624.7,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 1944.6
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 1116
+          },
+          {
+            "name": "Manpower (Financial Security)",
+            "amount": 1029
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 535.1
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 2323.4,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 851.5
+          },
+          {
+            "name": "Law",
+            "amount": 217.7
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 507.8
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 746.4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "total_expenditure": 106238.1,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 76029.5,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 11766.9
+          },
+          {
+            "name": "Health",
+            "amount": 14310.6
+          },
+          {
+            "name": "National Development",
+            "amount": 4626.5
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 1646.1
+          },
+          {
+            "name": "    Culture",
+            "amount": 2095.9
+          },
+          {
+            "name": "Social Development",
+            "amount": 40852.5
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 731
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 19437.3,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 13027.1
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 6012.6
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 397.6
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 8476.3,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 2944.8
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 2509.4
+          },
+          {
+            "name": "Manpower (Financial Security)",
+            "amount": 2291.1
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 731
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 2295,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 904.5
+          },
+          {
+            "name": "Law",
+            "amount": 196.2
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 502.3
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 692
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "total_expenditure": 114403.5,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 81750,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 12604.8
+          },
+          {
+            "name": "Health",
+            "amount": 16273.7
+          },
+          {
+            "name": "National Development",
+            "amount": 4709.5
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 1832
+          },
+          {
+            "name": "    Culture",
+            "amount": 2272.4
+          },
+          {
+            "name": "Social Development",
+            "amount": 43292.6
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 765
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 21833.5,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 14737.4
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 6678.3
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 417.8
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 8079.4,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 3737.9
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 1986
+          },
+          {
+            "name": "Manpower (Financial Security)",
+            "amount": 1590.5
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 765
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 2740.6,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 951.2
+          },
+          {
+            "name": "Law",
+            "amount": 207
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 578
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 1004.4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "total_expenditure": 123528.8,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 88002.7,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 12890.3
+          },
+          {
+            "name": "Health",
+            "amount": 15908.6
+          },
+          {
+            "name": "National Development",
+            "amount": 7850.8
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 1848.3
+          },
+          {
+            "name": "    Culture",
+            "amount": 1942.7
+          },
+          {
+            "name": "Social Development",
+            "amount": 46706.6
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 855.4
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 23751.1,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 16343
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 6942.2
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 465.9
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 8866.8,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 3692.3
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 2757.4
+          },
+          {
+            "name": "Manpower (Financial Security)",
+            "amount": 1561.7
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 855.4
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 2908.2,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 1001.6
+          },
+          {
+            "name": "Law",
+            "amount": 211.5
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 659.1
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 1036
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "total_expenditure": 126628,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 90348.6,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 13672.6
+          },
+          {
+            "name": "Health",
+            "amount": 15935.4
+          },
+          {
+            "name": "National Development",
+            "amount": 7419.5
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 2337.9
+          },
+          {
+            "name": "    Culture",
+            "amount": 2077.7
+          },
+          {
+            "name": "Social Development",
+            "amount": 47787.2
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 1118.3
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 26062.4,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 18495.8
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 7078.5
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 488.1
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 6985.8,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 2538.6
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 1568.4
+          },
+          {
+            "name": "Manpower (Financial Security)",
+            "amount": 1760.5
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 1118.3
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 3231.2,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 1187.5
+          },
+          {
+            "name": "Law",
+            "amount": 258.7
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 1116.8
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 668.2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "total_expenditure": 135407.2,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 97519.7,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 14132
+          },
+          {
+            "name": "Health",
+            "amount": 16731
+          },
+          {
+            "name": "National Development",
+            "amount": 8807.7
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 2763.1
+          },
+          {
+            "name": "    Culture",
+            "amount": 2270.8
+          },
+          {
+            "name": "Social Development",
+            "amount": 51826.2
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 988.9
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 28027.1,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 19884.2
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 7622.6
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 520.3
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 6997.7,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 2536.5
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 1608
+          },
+          {
+            "name": "Manpower (Financial Security)",
+            "amount": 1864.3
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 988.9
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 2862.7,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 1235.2
+          },
+          {
+            "name": "Law",
+            "amount": 277.8
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 613.4
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 736.3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "total_expenditure": 142963.5,
+    "sectors": [
+      {
+        "name": "Social Development",
+        "amount": 100664.6,
+        "subsectors": [
+          {
+            "name": "Education",
+            "amount": 14448
+          },
+          {
+            "name": "Health",
+            "amount": 18795.3
+          },
+          {
+            "name": "National Development",
+            "amount": 8345
+          },
+          {
+            "name": "Sustainability And The Environment",
+            "amount": 2656.1
+          },
+          {
+            "name": "Social Development",
+            "amount": 55208.7
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 1211.5
+          }
+        ]
+      },
+      {
+        "name": "Security And External Relations",
+        "amount": 30655.4,
+        "subsectors": [
+          {
+            "name": "Defence",
+            "amount": 22076.8
+          },
+          {
+            "name": "Home Affairs",
+            "amount": 8017.4
+          },
+          {
+            "name": "Foreign Affairs",
+            "amount": 561.2
+          }
+        ]
+      },
+      {
+        "name": "Economic Development",
+        "amount": 8018.8,
+        "subsectors": [
+          {
+            "name": "Transport",
+            "amount": 2798
+          },
+          {
+            "name": "Trade And Industry",
+            "amount": 1638.2
+          },
+          {
+            "name": "Manpower (Financial Security)",
+            "amount": 2371.1
+          },
+          {
+            "name": "Digital Development And Information",
+            "amount": 1211.5
+          }
+        ]
+      },
+      {
+        "name": "Government Administration",
+        "amount": 3624.7,
+        "subsectors": [
+          {
+            "name": "Finance",
+            "amount": 1421.6
+          },
+          {
+            "name": "Law",
+            "amount": 315.4
+          },
+          {
+            "name": "Organs Of State",
+            "amount": 1108.6
+          },
+          {
+            "name": "    Prime Minister's Office",
+            "amount": 779.1
+          }
+        ]
+      }
+    ]
+  }
+]
