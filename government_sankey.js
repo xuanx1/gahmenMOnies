@@ -168,9 +168,12 @@ function morphSankeyTransition() {
     const newSankeyData = createSankeyData();
     
     // Get chart dimensions (same as in createSankey)
-    const margin = { top: 80, right: 80, bottom: 30, left: 80 };
-    const width = window.innerWidth - margin.left - margin.right;
-    const height = window.innerHeight - margin.top - margin.bottom;
+    const margin = { top: 40, right: 40, bottom: 20, left: 40 };
+    const chartContainer = document.getElementById('chart');
+    const containerWidth = chartContainer ? chartContainer.clientWidth : window.innerWidth;
+    const containerHeight = chartContainer ? chartContainer.clientHeight : window.innerHeight;
+    const width = containerWidth - margin.left - margin.right;
+    const height = containerHeight - margin.top - margin.bottom;
     
     // Create sankey generator
     const sankey = d3.sankey()
@@ -493,7 +496,7 @@ function morphSankeyTransition() {
     const titleDiv = d3.select("#chart div");
     if (!titleDiv.empty()) {
         const totalExpenditure = filteredData.total_expenditure;
-        titleDiv.html(`Singapore Government Expenditure<br><span style='font-size: 28px; color: #ffffffff;'><span style='color: #7cd6ffff;'>${currentYear}</span>: S$<span style='color: #a3faa8ff;'>${(totalExpenditure / 1000).toFixed(2)}</span> Billion </span>`);
+        titleDiv.html(`Total expenditure<br><span style='font-family: "Playfair Display", Georgia, serif; font-size: 26px; font-weight: 900; color: #000; letter-spacing: -0.5px; text-transform: none;'><span style='color: #1A3A6C;'>${currentYear}</span> &middot; S$${(totalExpenditure / 1000).toFixed(2)}B</span>`);
     }
 }
 
@@ -507,7 +510,7 @@ function createSankey() {
             .style("transform", "translate(-50%, -50%)")
             .style("text-align", "center")
             .style("padding", "50px")
-            .style("color", "white")
+            .style("color", "#333")
             .style("font-size", "18px")
             .style("font-weight", "600")
             .text("No data available for the selected year.");
@@ -530,9 +533,12 @@ function createSankey() {
     }
     
     // Chart dimensions for vertical layout
-    const margin = { top: 80, right: 80, bottom: 30, left: 80 };
-    const width = window.innerWidth - margin.left - margin.right;
-    const height = window.innerHeight - margin.top - margin.bottom;
+    const margin = { top: 40, right: 40, bottom: 20, left: 40 };
+    const chartContainer = document.getElementById('chart');
+    const containerWidth = chartContainer ? chartContainer.clientWidth : window.innerWidth;
+    const containerHeight = chartContainer ? chartContainer.clientHeight : window.innerHeight;
+    const width = containerWidth - margin.left - margin.right;
+    const height = containerHeight - margin.top - margin.bottom;
 
     const svg = d3.select("#chart")
         .append("svg")
@@ -843,7 +849,7 @@ function createSankey() {
             return d.type === 'subsector' ? fullHeight / 2 : fullHeight;
         }) // Half height for destination nodes
         .style("fill", d => d.color)
-        .style("stroke", "rgba(255, 255, 255, 0.8)")
+        .style("stroke", "rgba(0, 0, 0, 0.12)")
         .style("stroke-width", "2")
         .on("mouseover", function(event, d) {
             // Just show tooltip, no scaling
@@ -865,7 +871,7 @@ function createSankey() {
             d3.select(this)
                 .transition()
                 .duration(200)
-                .attr("stroke", "rgba(255, 255, 255, 0.8)")
+                .attr("stroke", "rgba(0, 0, 0, 0.12)")
                 .attr("stroke-width", 2);
                 
             tooltip.transition()
@@ -931,14 +937,14 @@ function createSankey() {
         .attr("y", d => (d.x1 - d.x0) / 2)
         .attr("text-anchor", "start")
         .attr("dominant-baseline", "middle")
-        .style("font-size", "12px")
-        .style("font-weight", "bold")
-        .style("font-family", "'Inter', sans-serif")
+        .style("font-size", "11px")
+        .style("font-weight", "700")
+        .style("font-family", "'Roboto Condensed', 'Roboto', Arial, sans-serif")
         .style("text-transform", "uppercase")
-        .style("letter-spacing", "2px")
-        .style("fill", "white")
+        .style("letter-spacing", "1.2px")
+        .style("fill", "#111")
         .style("opacity", 0);
-    
+
     // Add text spans for 2-line titles
     originTitles.each(function(d) {
         const text = d3.select(this);
@@ -972,20 +978,20 @@ function createSankey() {
     const titleDiv = d3.select("#chart")
         .append("div")
         .style("position", "absolute")
-        .style("right", "30px")
-        .style("top", "30px")
+        .style("right", "20px")
+        .style("top", "16px")
         .style("transform", "none")
         .style("text-align", "right")
-        .style("font-size", "36px")
-        .style("font-weight", "800")
-        .style("font-family", "'Inter', sans-serif")
-        .style("color", "white")
-        .style("letter-spacing", "-1px")
-        .style("line-height", "1.1")
+        .style("font-size", "13px")
+        .style("font-weight", "700")
+        .style("font-family", "'Roboto Condensed', 'Roboto', Arial, sans-serif")
+        .style("text-transform", "uppercase")
+        .style("letter-spacing", "1.5px")
+        .style("color", "#5a5a5a")
+        .style("line-height", "1.3")
         .style("pointer-events", "none")
-        .style("text-shadow", "0 2px 20px rgba(0, 0, 0, 0.3)")
         .style("opacity", 0)
-        .html(`Merlion Gahmen Expenditure<br><span style='font-size: 28px; color: #ffffffff;'><span style='color: #7cd6ffff;'>${currentYear}</span>: S$<span style='color: #a3faa8ff;'>${(totalExpenditure / 1000).toFixed(2)}</span> Billion </span>`);
+        .html(`Total expenditure<br><span style='font-family: "Playfair Display", Georgia, serif; font-size: 26px; font-weight: 900; color: #000; letter-spacing: -0.5px; text-transform: none;'><span style='color: #1A3A6C;'>${currentYear}</span> &middot; S$${(totalExpenditure / 1000).toFixed(2)}B</span>`);
 
     titleDiv.transition()
         .duration(1000)
@@ -1406,11 +1412,20 @@ document.querySelectorAll('.year-btn').forEach(btn => {
     });
 });
 
-// Handle window resize
+// Handle window resize — clear existing SVG so it gets recreated at the new container size
+let resizeTimer;
 window.addEventListener('resize', () => {
-    if (!isPlaying) {
-        updateChart();
-    }
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(() => {
+        if (!isPlaying) {
+            d3.select("#chart").selectAll("svg").remove();
+            d3.select("#lineChart").selectAll("svg").remove();
+            d3.select("#fiscalChart").selectAll("svg").remove();
+            updateChart();
+            if (typeof createLineChart === 'function') createLineChart();
+            if (typeof createFiscalChart === 'function' && fiscalData && fiscalData.length) createFiscalChart();
+        }
+    }, 150);
 });
 
 // Fiscal Chart Functionality
