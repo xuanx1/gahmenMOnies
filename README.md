@@ -1,4 +1,4 @@
-# Singapore Government Expenditure Visualization
+# Singapore Government [Expenditure](https://xuanx1.github.io/gahmenMOnies/)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen)](https://xuanx1.github.io/gahmenMOnies/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
