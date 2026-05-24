@@ -1,12 +1,9 @@
 # Singapore Government [Expenditure](https://xuanx1.github.io/gahmenMOnies/)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen)](https://xuanx1.github.io/gahmenMOnies/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![D3.js](https://img.shields.io/badge/Built%20with-D3.js-orange)](https://d3js.org/)
-
 An interactive, animated Sankey diagram visualizing Singapore's government operating expenditure flows across sectors and departments from 1997 to 2025. This project provides insights into how government spending has evolved over nearly three decades, with a focus on major policy shifts and emerging priorities.
 
 <img width="1905" height="918" alt="Screenshot 2026-05-24 094547" src="https://github.com/user-attachments/assets/8fc1f1b0-f00e-4bcd-aef7-ea227adadf0e" />
+<img width="1904" height="918" alt="monies" src="https://github.com/user-attachments/assets/4039a873-c085-4bd9-b3da-39d49f74caa0" />
 
 ## ✨ Features
 
